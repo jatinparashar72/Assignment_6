@@ -1,0 +1,22 @@
+Text editors and integrated development environments (IDEs) are both used to write and edit code. Text editors 
+are simpler and better for quick edits, while IDEs are more feature-rich and better for larger projects. 
+Features 
+---------
+Text editors Provide basic features like syntax highlighting and file management. They can be good for quick 
+edits and smaller projects.
+IDEs Provide more comprehensive features like debugging tools, project management, and automated refactoring.
+ They can be more efficient for larger projects.
+
+Development experience 
+-----------------------
+Text editors: Can only write code.
+IDEs: Provide a more complete experience, including:
+a) Previewing code as you type
+b) Running programs from within the IDE
+c) Writing plugins
+d) Compiling and debugging code
+
+Hardware requirements
+---------------------
+Text editors: Require fewer hardware resources like memory, disk space, and processing power.
+IDEs: Require more memory, space, and fast processing.

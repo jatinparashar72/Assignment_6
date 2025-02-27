@@ -1,0 +1,25 @@
+Version control systems like Git can help developers work together more efficiently and effectively. They can
+ also help with: 
+1. Collaboration: Multiple developers can work on a project simultaneously without interfering with each 
+   other's work. 
+2. Version history: Developers can easily access and compare previous versions of a project 
+3. File information : Developers can see who, when, and where a file was edited 
+4. Speed: Version control systems can help developers move faster 
+5. Data integrity: Version control systems can help ensure that data is accurate and reliable 
+6. Non-linear workflows: Version control systems can support workflows that involve many parallel branches running
+ on different computers 
+
+Distributed version control systems
+-----------------------------------
+Git is a distributed version control system (DVCS), which means that users can access a repository from 
+multiple locations. This allows developers to work on projects from multiple computers remotely.
+
+Branching
+---------
+Git's branching capabilities allow developers to create isolated environments for each change to their codebase.
+ This makes it easy to merge changes between branches. 
+
+Audit trail
+-----------
+Version control systems can create an audit trail that shows who edited what, when, and what modifications
+ were made. This can help foster accountability within a team. 

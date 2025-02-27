@@ -1,0 +1,23 @@
+The main components of client-server architecture are the client and the server. The client requests services
+ and resources, while the server processes the requests and manages the resources. 
+
+ Client Interacts with the user and Requests services and resources. 
+
+ Server Processes requests, Manages resources, Sends responses to clients, Stores and manages data, and 
+ Can implement security measures like firewalls
+
+ Benefits of client-server architecture 
+ --------------------------------------
+
+1. Scalability: Can scale up or out to handle more requests
+2. Centralized management: Consolidates control of data, applications, and security
+3. Security: Can be more secure than peer-to-peer networking
+
+Other components of client-server architecture
+----------------------------------------------
+
+1. Load balancing: Distributes incoming requests across multiple servers to prevent any single server from 
+becoming overwhelmed 
+2. Protocol: Keeps a client-server connection until a request is completed 
+3. File server: Stores information as files and provides users access 
+

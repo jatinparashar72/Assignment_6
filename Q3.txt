@@ -1,0 +1,15 @@
+we can use web browser developer tools in web development. Web browser developer tools help web developers 
+find and fix issues with a website's layout and functionality. They also help developers preview style changes,
+ edit HTML, and write JavaScript code. 
+
+ How developer tools help with web development
+ ---------------------------------------------
+1. Find and fix issues: Developer tools help identify and fix issues with a website's layout and functionality.
+   For example, if a button isn't working, developer tools can help to fix it. 
+2. Preview style changes: Developer tools allow developers to preview style changes in real-time. for example 
+   we can change the background color and see immediately in web browser
+3. Edit HTML: Developer tools allow developers to edit HTML directly within the browser. 
+4. Write JavaScript code: Developer tools allow developers to write JavaScript code directly within the browser. 
+5. Debug : Developer tools allow developers to debug JavaScript, CSS, and HTML issues. 
+6. Test functionality and usability: Developer tools allow developers to test a website's functionality and 
+   usability. 
